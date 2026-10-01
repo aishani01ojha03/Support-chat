@@ -1,4 +1,4 @@
-# Customer Support Chatbot (1-Day Project)
+# Customer Support Chatbot
 
 ## Setup (Windows)
 1) Open terminal in the project folder:
